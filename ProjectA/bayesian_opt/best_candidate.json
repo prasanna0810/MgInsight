@@ -1,0 +1,16 @@
+{
+  "mean SpaceGroupNumber": 88.3455,
+  "avg_dev Electronegativity": 0.9681,
+  "avg_dev NpValence": 1.8078,
+  "mean NdValence": 0.6757,
+  "maximum Electronegativity": 3.4407,
+  "avg_dev NdValence": 0.9302,
+  "range Electronegativity": 2.1579,
+  "maximum Column": 16.0001,
+  "mean NpValence": 2.6258,
+  "mean NpUnfilled": 1.3119,
+  "predicted_Ef_eV_atom": -2.904,
+  "found_at_iteration": 46,
+  "dataset_minimum_eV": -4.0599,
+  "gap_to_dataset_min_eV": 1.1559
+}

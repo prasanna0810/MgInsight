@@ -1,0 +1,6 @@
+Rank,Feature,Mean_SHAP,Physical_meaning
+1,mean SpaceGroupNumber,0.47747,Crystal symmetry / packing efficiency
+2,avg_dev Electronegativity,0.36167,Electronegativity difference → bond polarity
+3,avg_dev NpValence,0.08653,Max electronegativity → electron-withdrawing tendency
+4,mean NdValence,0.07905,Electronegativity spread → ionic vs covalent character
+5,maximum Electronegativity,0.06654,Valence electron count → bonding capacity

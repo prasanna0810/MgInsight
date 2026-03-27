@@ -1,0 +1,25 @@
+# Virtual environment
+mgenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+ProjectA/data/mg_featurized.csv
+
+# Large simulation binaries
+ProjectB/results/*.h5
+ProjectB/mesh/*.h5
+ProjectB/results/Mg_concentration.xdmf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
